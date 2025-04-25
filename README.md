@@ -1,6 +1,6 @@
 # 🚀 Landing Page de Artigos - DIO
 
-Este repositório contém uma **Landing Page responsiva** criada com **HTML**, **CSS** e o framework **Bootstrap**. O objetivo principal é compartilhar artigos que escrevo na plataforma [DIO](https://www.dio.me/).
+Este repositório contém uma **Landing Page responsiva** criada com **HTML**, **CSS** e o framework **Bootstrap**. O objetivo principal é compartilhar artigos que escrevo na plataforma [DIO](https://www.dio.me/sign-up?ref=AF09NCKTFOJE).
 
 ---
 
