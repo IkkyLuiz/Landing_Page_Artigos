@@ -1,4 +1,3 @@
-```markdown
 # 🚀 Landing Page de Artigos - DIO
 
 Este repositório contém uma **Landing Page responsiva** criada com **HTML**, **CSS** e o framework **Bootstrap**. O objetivo principal é compartilhar artigos que escrevo na plataforma [DIO](https://www.dio.me/).
@@ -49,4 +48,4 @@ Se quiser trocar uma ideia ou sugerir algo:
 ## ⚖️ Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-```
+
